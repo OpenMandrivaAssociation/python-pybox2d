@@ -1,7 +1,7 @@
 %define	module	pybox2d
 Name:           python-%{module}
 Version:        2.0.2b2
-Release:        1
+Release:        2
 Summary:        A 2D rigid body simulation library for Python
 
 Group:          Development/Python
