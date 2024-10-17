@@ -6,7 +6,7 @@ Summary:        A 2D rigid body simulation library for Python
 
 Group:          Development/Python
 License:        zlib
-URL:            http://code.google.com/p/pybox2d/
+URL:            https://code.google.com/p/pybox2d/
 Source0:        http://pybox2d.googlecode.com/files/%{module}-%{version}.zip
 
 BuildRequires:  gcc
